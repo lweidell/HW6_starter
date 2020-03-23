@@ -3,6 +3,7 @@ package view;
 /**
  * A general interface for the View.
  * Has methods to set speed (how many ticks should pass per second; default is 1),
+ * as well as a method to produce a specific animation of a specific type.
  */
 public interface View {
 
